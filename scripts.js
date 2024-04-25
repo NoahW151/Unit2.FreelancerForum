@@ -5,7 +5,7 @@ const freelancers = [
 ];
 
 const possibleNames = ["George", "Bill", "Jim", "Bartholomew", "Hank", "Walter", "Sarah", "Ashley"];
-const possibleOccupations = ["writer", "teacher", "mercenary", "clown", "competitive sleeper", "bank robber"];
+const possibleOccupations = ["writer", "teacher", "mercenary", "clown", "competitive sleeper", "bank robber", "bounty hunter", "egg thrower"];
 
 function getAveragePrice()
 {
