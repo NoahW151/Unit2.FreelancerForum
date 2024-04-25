@@ -1,0 +1,14 @@
+main {
+    border: 3px solid black;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
